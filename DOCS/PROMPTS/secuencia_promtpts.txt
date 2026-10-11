@@ -1,0 +1,11 @@
+Hola Cursor. Tengo que desarrollar un taller universitario llamado 'Sistema Saludador' usando Java y JavaFX. El sistema debe pedirle al usuario su nombre,
+edad y hora (AM/PM), y al hacer clic en un botón de solicitar saludo, debe mostrar un mensaje saludándolo por su nombre y mencionando su edad.
+Ya tengo el proyecto configurado con Maven. Para entender bien cómo funciona todo, no me des el código completo todavía. Por favor, 
+explícame primero cuál es la estructura básica de una clase en JavaFX (start, Stage, Scene) y cómo empezamos a crear los campos de texto y el botón paso a paso.
+
+Seguir con fxm
+
+Perfecto. Ahora agrega a ese mismo código el evento setOnAction para el botón. Al hacer clic, debe capturar el texto de 'nombre' y 'edad' 
+para mostrar el texto '¡Hola [nombre]! Veo que tienes [edad] años.' en un Label vacío al final del VBox. Dame el código final actualizado sin texto de relleno.
+
+Perfecto, dame un README explicando como se ejecuta el codigo.
